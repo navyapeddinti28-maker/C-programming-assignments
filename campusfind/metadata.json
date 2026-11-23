@@ -1,0 +1,6 @@
+{
+  "name": "CampusFind",
+  "description": "Campus Lost and Found Management System powered by a modular C HTTP backend and binary .dat file storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
